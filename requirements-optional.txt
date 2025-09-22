@@ -1,0 +1,19 @@
+google-generativeai
+mistralai
+anthropic
+cohere
+seaborn
+
+# Dependencies for local HuggingFace model inference
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+safetensors>=0.3.0
+
+# Optional but recommended for better performance
+bitsandbytes>=0.40.0  # For 4-bit quantization
+optimum>=1.10.0       # For optimized inference
+# flash-attn>=2.0.0     # For faster attention computation (CUDA only)
+tokenizers>=0.13.3    # For faster tokenization

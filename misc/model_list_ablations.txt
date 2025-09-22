@@ -1,0 +1,12 @@
+model_list:
+  - bagel-8b-v1.0
+  - gpt-3.5-turbo-0125
+  - gpt-4-0613
+  - Llama-3-8B-Magpie-Align-SFT-v0.2
+  - Llama-3-8B-Magpie-Align-v0.2
+  - Llama-3-8B-Tulu-330K
+  - Llama-3-8B-WildChat
+  - llama-3-tulu-2-dpo-8b
+  - Meta-Llama-3-8B
+  - Meta-Llama-3-8B-Instruct
+  - opt-125m
