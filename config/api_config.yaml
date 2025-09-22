@@ -306,16 +306,16 @@ allenai/llama-3-tulu-2-dpo-8b:
     api_type: openai
     parallel: 8
 
-penfever/Llama-3-8B-NuminaCoT:
-    model_name: penfever/Llama-3-8B-NuminaCoT
+anonppp/Llama-3-8B-NuminaCoT:
+    model_name: anonppp/Llama-3-8B-NuminaCoT
     endpoints:
         - api_base: http://localhost:11434/v1
           api_key: 12345
     api_type: openai
     parallel: 8
 
-penfever/Llama-3-8B-tulu-human:
-    model_name: penfever/Llama-3-8B-tulu-human
+anonppp/Llama-3-8B-tulu-human:
+    model_name: anonppp/Llama-3-8B-tulu-human
     endpoints:
         - api_base: http://localhost:11434/v1
           api_key: 12345

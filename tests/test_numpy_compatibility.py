@@ -70,7 +70,7 @@ def test_show_result_imports():
     """Test that show_result.py can be imported without errors."""
     try:
         # Test importing show_result.py
-        sys.path.insert(0, '/Users/benfeuer/Library/CloudStorage/GoogleDrive-penfever@gmail.com/My Drive/Current Projects/oumi/llm-judge-oumi/arena-hard-auto')
+        sys.path.insert(0, '/Users/anonpp/Library/CloudStorage/GoogleDrive-anonppp@gmail.com/My Drive/Current Projects/oumi/llm-judge-oumi/arena-hard-auto')
         import show_result
         print("✓ show_result.py imports successfully")
         

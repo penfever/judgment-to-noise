@@ -14,7 +14,7 @@ fi
 
 # Set variables
 MODEL_NAME=$1
-PARENT_DIR="/Users/benfeuer/Library/CloudStorage/GoogleDrive-penfever@gmail.com/My Drive/Current Projects/oumi/llm-judge-oumi"
+PARENT_DIR="/Users/anonpp/Library/CloudStorage/GoogleDrive-anonppp@gmail.com/My Drive/Current Projects/oumi/llm-judge-oumi"
 BASE_DIR="${PARENT_DIR}/${MODEL_NAME}"
 PROCESSED_DIR="${BASE_DIR}/base_processed"
 TABLES_DIR="${BASE_DIR}/tables"
