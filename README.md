@@ -63,6 +63,7 @@ Outputs land under `<output-dir>/tables/` with subfolders for factor scores, rel
 - Run tests in the toolkit: `cd judgment-to-noise && pytest -q`
 
 ## Data and Outputs
+- The complete public archive of benchmark inputs, contexts, model responses, rubrics, factored judgments, and bootstrap summaries is available at [penfever/judgment-to-noise-data](https://huggingface.co/datasets/penfever/judgment-to-noise-data).
 - Input judgments: put JSONL under a directory you pass to `--input-dir`.
 - Tables: exported CSVs under `tables/` (factor scores, reliability, correlations, rankings analysis).
 - Figures: saved under `figures/` (reliability plots, heatmaps, grids).
